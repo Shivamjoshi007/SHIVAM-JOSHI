@@ -1,5 +1,5 @@
 # Data Analyst
-Post Graduation in Big Data Solution Architecture 
+Post Graduation in Big Data Solution Architecture  
 
 
 
