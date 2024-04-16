@@ -6,7 +6,7 @@ daily learning and a platform to tackle real-world challenges creatively and sus
 Tech-Support, Troubleshooting, Data Science, Artificial Intelligence, and Machine Learning.
 ### Education
 Post Graduation in Big Data Solution Architecture 
-• Graduated with Distinction
+• Graduated with Distinction 
 • Mastered SQL Server, MySQL, Microsoft Excel  
 • R Language, Python Pandas
 • Software Quality (Azure, Selenium)
