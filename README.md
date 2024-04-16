@@ -7,7 +7,7 @@ Tech-Support, Troubleshooting, Data Science, Artificial Intelligence, and Machin
 ### Education
 Post Graduation in Big Data Solution Architecture 
 • Graduated with Distinction
-• Mastered SQL Server, MySQL, Microsoft Excel
+• Mastered SQL Server, MySQL, Microsoft Excel  
 • R Language, Python Pandas
 • Software Quality (Azure, Selenium)
 • NoSQL, MongoDB
